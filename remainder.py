@@ -1,0 +1,5 @@
+a=input("enter a:")
+b=input("enter b:")
+a=int(a)
+b=int(b)
+print("the remainder when a is divided by b is",a%b)
